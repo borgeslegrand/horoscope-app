@@ -11,7 +11,11 @@
   "dependencies": {
     "next": "15.3.4",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "@neynar/nodejs-sdk": "^1.0.0",
+    "wagmi": "^2.0.0",
+    "@rainbow-me/rainbowkit": "^2.0.0",
+    "viem": "^2.0.0"
   },
   "devDependencies": {
     "@types/node": "^20",
